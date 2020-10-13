@@ -34,7 +34,7 @@ class Database extends \CodeIgniter\Database\Config
 		'hostname' => 'localhost',
                 'username' => 'root',
                 'password' => '',
-                'database' => 'YOUR_DATABASE',
+                'database' => 'db_news',
 		'DBDriver' => 'MySQLi',
 		'DBPrefix' => '',
 		'pConnect' => false,
